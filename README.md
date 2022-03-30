@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanishqr32
 - 👀 I’m interested in  coding and love to play with computer at programming level..
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python..
 - 📫 Wanna learn with me... contact me at tanishqr32@gmail.com
 - 
 
